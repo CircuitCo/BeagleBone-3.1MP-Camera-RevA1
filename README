@@ -1,0 +1,3 @@
+The BeagleBone 3.1MP Camera Cape provides a portable camera solution for BeagleBone boards. This cape captures image using a 3.1 megapixel camera sensor and transmits image data to BeagleBone via general purpose memory controller (GPMC) interface. In addition to a power indicator LED, the BeagleBone 3.1MP Camera Cape is also equipped with EEPROM for cape identification and pin muxing configuration.
+
+Note: BeagleBone 3.1MP Camera Cape should be used with LCD7 Cape or DVI-D Cape for previewing and capturing photos.
